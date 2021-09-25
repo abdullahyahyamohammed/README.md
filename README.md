@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=channu7" alt="channu7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahyahyamohammed" alt="abdullahyahyamohammed" /> </p>
 ## Hi there 👋
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=channu7&layout=compact) -->
